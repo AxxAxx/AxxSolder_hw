@@ -1,95 +1,4 @@
-22451783314235931
-691243310007
-691243310007
-
-
-0
-7
-7
-1N5819HW-7-F
-SOD3716X145N
-SOD123(H=1.45)
-Diode
-0
-2
-2
-1_5inch-rgb-oled-module_asm-1110
-1_5inch-rgb-oled-module_asm-1110
-
-
-0
-12
-8
-2N7002NXAKR
-SOT95P230X110-3N
-SOT23_2022
-MOSFET (N-Channel)
-0
-3
-3
-74HC4053PW,118
-SOP65P640X110-16N
-SOT403-1
-Integrated Circuit
-0
-16
-16
-3557-2
-3557-2
-3557-2
-Connector
-0
-4
-2
-0154007
-0154100DR
-0154.100DR-2
-Fuse
-0
-2
-2
-505568-0671
-5055680671
-505568-0671
-Connector
-0
-8
-8
-1705540
-1705540
-1705540
-Connector
-0
-4
-4
-1705579
-1705579
-1705579
-Connector
-0
-10
-10
-1705595
-1705595
-1705595
-Connector
-0
-14
-14
-1725656
-1725656
-1725656-5
-Connector
-0
-2
-2
-ADP7118ACPZN3
-SON65P200X200X65-7N-D
-(CP-6-3)
-Integrated Circuit
-0
-7
-7
+22416333339466486
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104,27 +13,6 @@ audio belton reverb
 0
 7
 7
-BAT54S,215
-SOT95P230X110-3N
-SOT -23
-Schottky Diode
-0
-3
-3
-BSC014N04LS
-BSC014N04LS
-
-
-0
-9
-3
-BSC022N04LSATMA1
-BSC093N04LSG
-PG-TDSON-8-5_1
-MOSFET (N-Channel)
-0
-9
-3
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2565,20 +2453,6 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
-0
-2
-2
-CAT24C256WI-GT3
-SOIC127P600X175-8N
-SOIC 8, 150 mils CASE 751BD−01 ISSUE O
-Integrated Circuit
-0
-8
-8
-CMI-9653S-SMT-TR
-CMI9653SSMTTR
-CMI-9653S-SMT-TR
-Loudspeaker or Buzzer
 0
 2
 2
@@ -54963,27 +54837,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-EMZR500ARA331MJA0G
-CAPAE1030X1050N
-Size Code JA0
-Capacitor Polarised
-0
-2
-2
-ESDA25P35-1U1M
-ESDA25P351U1M
-1610_2023
-TVS Diode (Uni-directional)
-0
-2
-2
-ESDA25W
-SOT65P210X110-3N
-ESDA25W
-Diode
-0
-3
-3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -56153,13 +56006,6 @@ heatsink
 0
 0
 0
-IRF7749L1TRPBF
-IRL7472L1TRPbF
-DIRECTFET L8
-MOSFET (N-Channel)
-0
-15
-15
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -61368,27 +61214,6 @@ solder jumper open
 0
 5
 3
-KMR211G_LFS
-KMR_2
-KMR_2
-Switch
-0
-4
-2
-LD1117AS33TR
-SOT230P700X190-4N
-SOT-223
-Power Supply
-0
-4
-4
-LD1117S50TR
-SOT230P700X190-4N
-SOT-223
-Integrated Circuit
-0
-4
-4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62523,41 +62348,258 @@ Yellow 5381 Series LED
 0
 2
 2
-LM358BAIDR
-SOIC127P600X175-8N
-D0008A  SOIC
+Library
+691243310007
+
+
+0
+7
+7
+Library
+1_5inch-rgb-oled-module_asm-1110
+
+
+0
+12
+8
+Library
+0154100DR
+0154.100DR-2
+Fuse
+0
+2
+2
+Library
+BSC014N04LS
+
+
+0
+9
+3
+Library
+CAPAE1030X1050N
+Size Code JA0
+Capacitor Polarised
+0
+2
+2
+Library
+CMI9653SSMTTR
+CMI-9653S-SMT-TR
+Loudspeaker or Buzzer
+0
+2
+2
+Library
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Library
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Library
+DIOM5436X261N
+DO-214AA
+TVS Diode (Bi-directional)
+0
+2
+2
+Library
+ESDA25P351U1M
+1610_2023
+TVS Diode (Uni-directional)
+0
+2
+2
+Library
+GCT_USB4105-GF-A-120
+
+
+0
+16
+16
+Library
+INDPM7366X300N
+100M-3
+Inductor
+0
+2
+2
+Library
+KMR_2
+KMR_2
+Switch
+0
+4
+2
+Library
+MountingHole_3mm
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
+0
+0
+0
+Library
+PEC11L4220FS0015
+PEC11L-4220F-S0015
+Undefined or Miscellaneous
+0
+7
+5
+Library
+PMEG6020ER115
+PMEG6020ER,115-1
+Schottky Diode
+0
+2
+2
+Library
+PinSocket_1x06_P2.54mm_Vertical
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Library
+QFN50P400X400X100-25N-D
+QFN24-1
 Integrated Circuit
 0
-8
-8
-LTC4440AHMS8E-5#PBF
+25
+25
+Library
+QFP80P900X900X160-32N
+LQFP32
+Integrated Circuit
+0
+32
+32
+Library
+RESC6432X89N
+WSLP25122L500FEA
+Resistor
+0
+2
+2
+Library
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Library
+SOD3716X145N
+SOD123(H=1.45)
+Diode
+0
+2
+2
+Library
+SODFL4725X110N
+SOD128
+Diode
+0
+2
+2
+Library
+SON65P300X300X100-9N-D
+DRB0008B
+Integrated Circuit
+0
+9
+9
+Library
 SOP65P490X110-9N
 MS8E Package 8-Lead Plastic MSOP,
 Integrated Circuit
 0
 9
 9
-M24128-BFMN6TP
-SOIC127P600X175-8N
-SO8 (150 mils width)
+Library
+SOT65P210X110-3N
+ESDA25W
+Diode
+0
+3
+3
+Library
+SOT95P230X110-3N
+SOT -23
+Schottky Diode
+0
+3
+3
+Library
+SOT95P280X110-6N
+DDC
 Integrated Circuit
 0
-8
-8
-MCABT-458-RC
-INDPM122120X310N
-MCABT-458-RC
-Inductor
+6
+6
+Library
+SOT230P700X190-4N
+SOT-223
+Power Supply
+0
+4
+4
+Library
+STL20N6F7
+PowerFLAT™ 3.3x3.3
+MOSFET (P-Channel)
+0
+7
+5
+Library
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
 0
 2
 2
-MCP9600-E_MX
-QFN65P500X500X100-21N-D
-MQFN-20
+Library
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+Library
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+Library
+UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
+UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+UFQFPN NoLead
+0
+34
+32
+Library
+USBLC62P6
+USBLC6-2P6-3
 Integrated Circuit
 0
-21
-21
+6
+6
+Library
+V7NM103M3I
+V7NM103-M3/I-1
+Schottky Diode
+0
+3
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -65134,20 +65176,6 @@ Mounting 4.5mm 9774100982
 0
 8
 1
-NUCLEO-G431KB
-NUCLEO-G431KB
-
-
-0
-30
-30
-NX2016SA-24M-EXS00A-CS08891
-NX2016SA24MEXS00ACS08891
-NX2016SA-24M-EXS00A-CS08891-6
-Crystal or Oscillator
-0
-4
-4
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -65232,20 +65260,6 @@ net tie
 0
 4
 4
-OP07CSZ-REEL7
-SOIC127P600X175-8N
-R-8 (SOIC)
-Integrated Circuit
-0
-8
-8
-OPA2333AIDRBR
-SON65P300X300X100-9N-D
-DRB0008B
-Integrated Circuit
-0
-9
-9
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -66296,34 +66310,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PEC11L-4220F-S0015
-PEC11L4220FS0015
-PEC11L-4220F-S0015
-Undefined or Miscellaneous
-0
-7
-5
-PMEG6020ER,115
-PMEG6020ER115
-PMEG6020ER,115-1
-Schottky Diode
-0
-2
-2
-PMEG10030ELPX
-SODFL4725X110N
-SOD128
-Diode
-0
-2
-2
-PTS636_SM43_SMTR_LFS
-PTS636SM43SMTRLFS
-PTS636 SM43 SMTR LFS-2
-Switch
-0
-2
-2
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -85280,55 +85266,6 @@ rotary encoder
 0
 7
 6
-SD103AWS-E3-08
-SOD2713X115N
-SOD-323
-Diode
-0
-2
-2
-SMBJ24CA
-DIOM5436X261N
-DO-214AA
-TVS Diode (Bi-directional)
-0
-2
-2
-SMCJ24CA
-DIONM7969X262N
-DO-214AB (SMC J-BEND)
-TVS Diode (Bi-directional)
-0
-2
-2
-SRP7028CC-100M
-INDPM7366X300N
-100M-3
-Inductor
-0
-2
-2
-STL9P3LLH6
-STL20N6F7
-PowerFLAT™ 3.3x3.3
-MOSFET (P-Channel)
-0
-7
-5
-STM32G431KBT6
-QFP80P900X900X160-32N
-LQFP32
-Integrated Circuit
-0
-32
-32
-STUSB4500QTR
-QFN50P400X400X100-25N-D
-QFN24-1
-Integrated Circuit
-0
-25
-25
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://www.aosong.com/en/products-22.html
@@ -86946,48 +86883,6 @@ Logo WEEE
 0
 0
 0
-TMP236AQDBZRQ1
-SOT95P237X112-3N
-DBZ0003A HEIGHT=1.12
-Integrated Circuit
-0
-3
-3
-TMUX1121DGKR
-SOP65P490X110-8N
-TMUX1121DGKR
-Integrated Circuit
-0
-8
-8
-TMUX1136DGSR
-SOP50P490X110-10N
-DGS0010A_1
-Integrated Circuit
-0
-10
-10
-TPS54302DDCR
-SOT95P280X110-6N
-DDC
-Integrated Circuit
-0
-6
-6
-TSR_2-2450
-TSR-2
-TSR-2
-Power Supply
-0
-3
-3
-TSR_2-24120
-TSR-2
-TSR-2
-Power Supply
-0
-3
-3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -91818,48 +91713,6 @@ igbt diode module
 0
 25
 25
-UCC27517DBVR
-SOT95P280X145-5N
-DBV (R-PDSO-G5)
-Integrated Circuit
-0
-5
-5
-USB3140-30-0230-1-C_REVE1
-GCT_USB3140-30-0230-1-C_REVE1
-
-
-0
-7
-6
-USB4105-GF-A
-GCT_USB4105-GF-A-120
-
-
-0
-16
-16
-USB4800-03-A
-USB480003A
-USB4800-03-A-1
-Connector
-0
-16
-16
-USBLC6-2P6
-USBLC62P6
-USBLC6-2P6-3
-Integrated Circuit
-0
-6
-6
-V7NM103-M3_I
-V7NM103M3I
-V7NM103-M3/I-1
-Schottky Diode
-0
-3
-2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -92637,31 +92490,31 @@ varistor
 0
 2
 2
-WSL27265L000FEA
-WSL27265L000FEA
-WSL2726_1
-Resistor
+footprints
+691243110008
+691243110008-3
+Connector
 0
-4
-4
-WSL39213L000FEA
-WSL39213L000FEA
-WSL39213L000FEA-2
-Resistor
+8
+8
+footprints
+BLM18SP221SN1B
+BLM18_3 L=1.6 W=0.8 T=0.8
+Ferrite Bead
 0
 2
 2
-WSLP25122L500FEA
+footprints
 RESC6432X89N
-WSLP25122L500FEA
+WSLP25125L000FEA
 Resistor
 0
 2
 2
-testpin black 1mm
-testpin black 1mm
-
-
+footprints
+SON65P300X300X100-9N-D
+DRB0008B
+Integrated Circuit
 0
-1
-1
+9
+9

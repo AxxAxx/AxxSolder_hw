@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 0154007.DRL
-D Fuse Chip Very Fast Acting 7A SMD Solder Pad 9.73 X 5.03 X 3.81mm T/R
-K
-F https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 1N5819HW-7-F
-D Diode Schottky 1A 40V SOD123 Diodes Inc 1N5819HW-7-F, SMT Schottky Diode, 40V 1A, 2-Pin SOD-123
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1390892.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP V7NM103-M3_I
-D Schottky Diodes & Rectifiers 7A, 100V, DFN3820A TRENCH SKY RECT.
-K
-F https://www.vishay.com/docs/98448/v7nm103.pdf
-$ENDCMP
-#
-#End Doc Library

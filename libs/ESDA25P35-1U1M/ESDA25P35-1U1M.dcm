@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ESDA25P35-1U1M
-D STMicroelectronics ESDA25P35-1U1M, Uni-Directional TVS Diode, 1400W, 2-Pin QFN
-K
-F https://www.st.com/resource/en/datasheet/esda25p35-1u1m.pdf
-$ENDCMP
-#
-#End Doc Library

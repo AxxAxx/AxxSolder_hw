@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ESDA25W
-D STMicroelectronics ESDA25W Dual Uni-Directional TVS Diode Array, 400W peak, 3-Pin SOT-323
-K
-F https://www.st.com/resource/en/datasheet/esdaxxxwx.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -61,4 +61,7 @@
   (lib (name "USBLC6-2P6")(type "KiCad")(uri "${KIPRJMOD}/libs/USBLC6-2P6")(options "")(descr ""))
   (lib (name "KMR211G_LFS")(type "KiCad")(uri "${KIPRJMOD}/libs/KMR211G_LFS")(options "")(descr ""))
   (lib (name "0154007")(type "KiCad")(uri "${KIPRJMOD}/libs/0154007")(options "")(descr ""))
+  (lib (name "BAV199WQ-7")(type "KiCad")(uri "${KIPRJMOD}/libs/BAV199WQ-7")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/axel_/Desktop/Library.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/3rd-parties-libraries/footprints.pretty")(options "")(descr ""))
 )

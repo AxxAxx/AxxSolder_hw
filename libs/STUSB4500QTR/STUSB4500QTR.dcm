@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STUSB4500QTR
-D USB Interface IC CONDITIONING & INTERFACES
-K
-F https://www.st.com/resource/en/datasheet/stusb4500.pdf
-$ENDCMP
-#
-#End Doc Library
