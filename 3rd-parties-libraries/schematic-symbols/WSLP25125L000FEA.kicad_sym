@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "WSLP25125L000FEA" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "WSLP25125L000FEA" (pin_numbers hide) (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "R" (at 13.97 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -30,27 +30,20 @@
     (property "Manufacturer_Part_Number" "WSLP25125L000FEA" (at 13.97 -16.51 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (symbol "WSLP25125L000FEA_0_0"
-      (pin passive line (at 0 0 0) (length 5.08)
+    (symbol "WSLP25125L000FEA_0_1"
+      (rectangle (start -0.762 4.318) (end 0.762 0.762)
+        (stroke (width 0.2032) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "WSLP25125L000FEA_1_1"
+      (pin passive line (at 0 5.08 270) (length 0.762)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 17.78 0 180) (length 5.08)
+      (pin passive line (at 0 0 90) (length 0.762)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
-      )
-    )
-    (symbol "WSLP25125L000FEA_0_1"
-      (polyline
-        (pts
-          (xy 5.08 1.27)
-          (xy 12.7 1.27)
-          (xy 12.7 -1.27)
-          (xy 5.08 -1.27)
-          (xy 5.08 1.27)
-        )
-        (stroke (width 0.1524) (type solid))
-        (fill (type none))
       )
     )
   )

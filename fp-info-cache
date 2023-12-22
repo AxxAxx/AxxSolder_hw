@@ -1,4 +1,4 @@
-22416333339466486
+22406157894945513
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62348,258 +62348,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-691243310007
-
-
-0
-7
-7
-Library
-1_5inch-rgb-oled-module_asm-1110
-
-
-0
-12
-8
-Library
-0154100DR
-0154.100DR-2
-Fuse
-0
-2
-2
-Library
-BSC014N04LS
-
-
-0
-9
-3
-Library
-CAPAE1030X1050N
-Size Code JA0
-Capacitor Polarised
-0
-2
-2
-Library
-CMI9653SSMTTR
-CMI-9653S-SMT-TR
-Loudspeaker or Buzzer
-0
-2
-2
-Library
-C_0805_2012Metric
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Library
-C_1206_3216Metric
-Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Library
-DIOM5436X261N
-DO-214AA
-TVS Diode (Bi-directional)
-0
-2
-2
-Library
-ESDA25P351U1M
-1610_2023
-TVS Diode (Uni-directional)
-0
-2
-2
-Library
-GCT_USB4105-GF-A-120
-
-
-0
-16
-16
-Library
-INDPM7366X300N
-100M-3
-Inductor
-0
-2
-2
-Library
-KMR_2
-KMR_2
-Switch
-0
-4
-2
-Library
-MountingHole_3mm
-Mounting Hole 3mm, no annular
-mounting hole 3mm no annular
-0
-0
-0
-Library
-PEC11L4220FS0015
-PEC11L-4220F-S0015
-Undefined or Miscellaneous
-0
-7
-5
-Library
-PMEG6020ER115
-PMEG6020ER,115-1
-Schottky Diode
-0
-2
-2
-Library
-PinSocket_1x06_P2.54mm_Vertical
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Library
-QFN50P400X400X100-25N-D
-QFN24-1
-Integrated Circuit
-0
-25
-25
-Library
-QFP80P900X900X160-32N
-LQFP32
-Integrated Circuit
-0
-32
-32
-Library
-RESC6432X89N
-WSLP25122L500FEA
-Resistor
-0
-2
-2
-Library
-R_0805_2012Metric
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Library
-SOD3716X145N
-SOD123(H=1.45)
-Diode
-0
-2
-2
-Library
-SODFL4725X110N
-SOD128
-Diode
-0
-2
-2
-Library
-SON65P300X300X100-9N-D
-DRB0008B
-Integrated Circuit
-0
-9
-9
-Library
-SOP65P490X110-9N
-MS8E Package 8-Lead Plastic MSOP,
-Integrated Circuit
-0
-9
-9
-Library
-SOT65P210X110-3N
-ESDA25W
-Diode
-0
-3
-3
-Library
-SOT95P230X110-3N
-SOT -23
-Schottky Diode
-0
-3
-3
-Library
-SOT95P280X110-6N
-DDC
-Integrated Circuit
-0
-6
-6
-Library
-SOT230P700X190-4N
-SOT-223
-Power Supply
-0
-4
-4
-Library
-STL20N6F7
-PowerFLAT™ 3.3x3.3
-MOSFET (P-Channel)
-0
-7
-5
-Library
-SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Library
-TestPoint_Pad_D1.0mm
-SMD pad as test Point, diameter 1.0mm
-test point SMD pad
-0
-1
-1
-Library
-TestPoint_THTPad_D1.0mm_Drill0.5mm
-THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
-test point THT pad
-0
-1
-1
-Library
-UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
-UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-UFQFPN NoLead
-0
-34
-32
-Library
-USBLC62P6
-USBLC6-2P6-3
-Integrated Circuit
-0
-6
-6
-Library
-V7NM103M3I
-V7NM103-M3/I-1
-Schottky Diode
-0
-3
-2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -92498,12 +92246,124 @@ Connector
 8
 8
 footprints
+691243110009
+691243110009-3
+Connector
+0
+9
+9
+footprints
+0154100DR
+0154.100DR-2
+Fuse
+0
+2
+2
+footprints
+ADTSM644KVTR
+ADTSM644KVTR-5
+Switch
+0
+4
+4
+footprints
+Adafruit_240x320_TFT
+
+
+0
+11
+11
+footprints
 BLM18SP221SN1B
 BLM18_3 L=1.6 W=0.8 T=0.8
 Ferrite Bead
 0
 2
 2
+footprints
+BSC014N04LS
+
+
+0
+9
+3
+footprints
+CAPAE1030X1050N
+Size Code JA0
+Capacitor Polarised
+0
+2
+2
+footprints
+CMI9653SSMTTR
+CMI-9653S-SMT-TR
+Loudspeaker or Buzzer
+0
+2
+2
+footprints
+DIOM5436X261N
+DO-214AA (SMB J-Bend) 33
+TVS Diode (Uni-directional)
+0
+2
+2
+footprints
+ESDA25P351U1M
+1610_2023
+TVS Diode (Uni-directional)
+0
+2
+2
+footprints
+INDPM7366X300N
+100M-3
+Inductor
+0
+2
+2
+footprints
+NX2016SA32MEXS00ACS06465
+NX2016SA-32M-EXS00A-CS06465-2
+Crystal or Oscillator
+0
+4
+3
+footprints
+PEC11J9220FS0015
+PEC11J-9220F-S0015-1
+Integrated Circuit
+0
+11
+6
+footprints
+PMEG6020ER115
+PMEG6020ER,115-1
+Schottky Diode
+0
+2
+2
+footprints
+QFN50P400X400X100-25N-D
+QFN24-1
+Integrated Circuit
+0
+25
+25
+footprints
+QFP50P900X900X160-48N
+LQFP48 - 48-pin, 7 x 7 mm
+Integrated Circuit
+0
+48
+48
+footprints
+QFP80P900X900X160-32N
+LQFP32
+Integrated Circuit
+0
+32
+32
 footprints
 RESC6432X89N
 WSLP25125L000FEA
@@ -92512,9 +92372,107 @@ Resistor
 2
 2
 footprints
+SODFL4725X110N
+SOD128
+Diode
+0
+2
+2
+footprints
+SOIC127P600X175-8N
+D0008A  SOIC
+Integrated Circuit
+0
+8
+8
+footprints
+SON50P200X200X80-9N
+WSON  DSG0008A
+Integrated Circuit
+0
+9
+9
+footprints
+SON50P300X200X80-9N
+T823Y+3C
+Integrated Circuit
+0
+9
+9
+footprints
 SON65P300X300X100-9N-D
 DRB0008B
 Integrated Circuit
 0
 9
 9
+footprints
+SOP65P490X110-8N
+LM74670QDGKRQ1
+Integrated Circuit
+0
+8
+8
+footprints
+SOP65P490X110-9N
+MS8E Package 8-Lead Plastic MSOP,
+Integrated Circuit
+0
+9
+9
+footprints
+SOT65P210X110-3N
+ESDA25W
+Diode
+0
+3
+3
+footprints
+SOT95P230X110-3N
+SOT -23
+Schottky Diode
+0
+3
+3
+footprints
+SOT95P237X95-3N
+DBZ0003A
+Undefined or Miscellaneous
+0
+3
+3
+footprints
+SOT95P280X110-6N
+DDC
+Integrated Circuit
+0
+6
+6
+footprints
+SOT230P700X190-4N
+SOT-223
+Integrated Circuit
+0
+4
+4
+footprints
+STL10N3LLH5
+STL10N3LLH5-1
+MOSFET (N-Channel)
+0
+10
+3
+footprints
+STL20N6F7
+PowerFLAT™ 3.3x3.3
+MOSFET (P-Channel)
+0
+7
+3
+footprints
+USB4110GFA
+USB4110-GF-A-1
+Connector
+0
+20
+17
